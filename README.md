@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, sou o Alex Carvalho 👋
 
-<!--
-**alexxingu01-oss/alexxingu01-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor Python & Especialista em Automação de Processos Financeiros
+Unifico minha bagagem em **Gestão Financeira e Contabilidade** com o **Desenvolvimento em Python** para eliminar tarefas manuais, conciliar dados e automatizar rotinas operacionais.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias & Ferramentas
+* **Linguagens & Libs:** Python (Pandas, OpenPyXL, Requests, BeautifulSoup)
+* **Bancos de Dados & Formatos:** SQL, JSON, CSV, Arquivos CNAB (Remessa/Retorno)
+* **Sistemas & Operação:** Linux, Git/GitHub, ERPs Financeiros (SAP, Nibo, Ileva)
+
+---
+
+### 📂 Repositórios de Demonstração (Portfólio de Serviços)
+* 📊 **[python-finance-automations](https://github.com/alexxingu01-oss/python-finance-automations):** Scripts de automação para limpeza de planilhas Excel e conciliação bancária de teste.
+
+---
+
+📫 **Contatos para Projetos & Freelance:**
+* **E-mail:** alexxingu@hotmail.com
+* **WhatsApp:** (62) 98183-0606
